@@ -1,0 +1,2 @@
+probando si arreglé la simetría   (La arreglé solo en la arquitectura, falta en los pesos)
+la red se creaba siempre igual xq no le agregaba un random seed antes de crearla

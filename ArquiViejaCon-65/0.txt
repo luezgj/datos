@@ -1,0 +1,3 @@
+Probé con la arquitectura vieja (20-03-12_2) pero empezando las neuronas sensoras en -65 (antes de hacer eso, esta arquitectura no era evolucionable). 
+Se sigue moviendo cuadrado pero al menos evoluciona.
+Voy a probar con más generaciones

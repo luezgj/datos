@@ -1,0 +1,3 @@
+Acá creo que sí debería ser simétrico
+Cambié el i por i-1 en la actualización de v
+Hice que las neuronas sensoras empiezen en 0 en vez de en -65

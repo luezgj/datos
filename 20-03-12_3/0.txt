@@ -1,0 +1,1 @@
+Viendo si arreglé la simetría (deberia estar bien los pesos y la arquitectura)
