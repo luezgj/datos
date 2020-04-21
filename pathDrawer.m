@@ -1,4 +1,4 @@
-exp_dir="C:/Users/lucho/Documents/Tema1/Datos/myMix/20-03-16_4/"
+exp_dir="/home/luezgj/Documentos/Datos/20-04-21/"
 
 fid = fopen ([exp_dir,"bestCateg.dat"],"r")
 clf;
