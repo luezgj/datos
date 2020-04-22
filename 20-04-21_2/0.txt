@@ -1,0 +1,2 @@
+Antes tenía una neurona común entre el sensor y las neuronas spiking. Saqué esas neuronas, xq en realidad no van, y pase las entradas pesadas directo a las interneuronas spiking. 
+En esta prueba hice 10 generaciones para ver cómo se comporta
