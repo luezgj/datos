@@ -1,6 +1,6 @@
-exp_dir="/home/luezgj/Documentos/Datos/20-04-21/";
+exp_dir="/home/luezgj/Documentos/Datos/20-04-22/";
 
-generations=2000;
+generations=1200;
 
 
 fid = fopen ([exp_dir,"fitness.dat"],"r")

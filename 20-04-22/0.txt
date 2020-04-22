@@ -1,0 +1,1 @@
+Probé con correr 1200 generaciones para ver cómo queda el agente
