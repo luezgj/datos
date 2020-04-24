@@ -1,0 +1,1 @@
+Cambié de arquitectura para probar con otra. Evolucioné 10 generaciones para ver si es evolucionable
