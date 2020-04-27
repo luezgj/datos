@@ -1,0 +1,6 @@
+prueba de generaciones
+con 20 neuronas (16+4)
+Primera vez que la arquitectura está del todo bien 
+con pesos entre 0,10
+
+No evolucionó
