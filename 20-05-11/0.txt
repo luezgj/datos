@@ -1,0 +1,2 @@
+3000 generaciones de un agente de 100 neuronas
+aumenté el mutation variance, pero igual no mejoró el fitness. Voy a probar con el Candadai original
