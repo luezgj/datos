@@ -1,0 +1,2 @@
+8x1 con outputBias 
+No funciona mejor que lo demás

@@ -1,0 +1,6 @@
+con OutputBias 
+No funcionó tan bien
+
+Ver si está bien implementado
+Probar otra aquitectura
+Probar no dividir la velocidadpor cnsSize
