@@ -1,0 +1,4 @@
+3 neuronas con los bias (uno in, uno out)
+Bajé los pesos a [0..2] para ver si así andaba bien
+
+No anda bien
