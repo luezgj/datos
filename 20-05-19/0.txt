@@ -1,0 +1,7 @@
+Con outputBias
+
+Dividí velocity / M (cantidad de conexiones)
+Pesos en 0..10
+
+
+No llegó muy lejos. 77 en 3000 generaciones

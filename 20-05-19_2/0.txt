@@ -1,0 +1,1 @@
+Subí el crossoverProb a 0.65, y la población a 200
