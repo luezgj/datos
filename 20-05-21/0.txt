@@ -1,0 +1,9 @@
+Prueba sin outputBias (porque sin esto andaba mejor, sólo mejoró en el Original). 
+
+La prueba es si con 200 individuos y 0.7 de crossoverProb mejora el algoritmo. 
+
+Pesos en 0..10
+
+Arquitectura nueva para tener otra. Si sigo usando siempre la primera no veo si el problema es la arquitectura. 
+
+Después contrastar contra 100 individuos y 0.5 de crossProb
