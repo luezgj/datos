@@ -1,0 +1,3 @@
+Prueba sin outputBias (porque sin esto andaba mejor, sólo mejoró en el Original). 
+
+Pruebo lo mismo que en 20-05-20 pero sin outputBias, para ver si así anda mejor
