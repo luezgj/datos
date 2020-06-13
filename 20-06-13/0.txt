@@ -1,0 +1,6 @@
+Prueba sin outputBias (porque sin esto andaba mejor, sólo mejoró en el Original). 
+
+Voy a probar la mejor arquitectura hasta ahora (creo, la 3) con expectedOffsping en 1.9, y también hice que sólo se tire la mitad de los objetos (porque la otra mitad es simétrica). Uso población de 200 y crossProb 0.7
+
+
+2da replica
