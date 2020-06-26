@@ -1,0 +1,6 @@
+20-06-26:
+Primera prueba que hago para ver si está todo bien
+son sólo 10 generaciones de 10 individuos
+
+20-06-26_2:
+Ahora pruebo si estoy cortando bien a la mitad las trials (porque las otras son simétricas, no sirve de nada simularlas)
