@@ -1,0 +1,3 @@
+20-06-26:
+Primer prueba seria con las 100 neuronas
+Probé 200 generaciones para ver como anda
