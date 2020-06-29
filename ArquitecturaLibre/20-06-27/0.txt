@@ -1,0 +1,4 @@
+20-06-27:
+Primer prueba seria con las 100 neuronas
+Probé 3000 generaciones y no llegué muy lejos. 
+Voy a probar otra vez y si no anda voy a tener que empezar a jugar con el algoritmo evolutivo
