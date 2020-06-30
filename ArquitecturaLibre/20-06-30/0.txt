@@ -1,0 +1,14 @@
+20-06-27:
+Primer prueba seria con las 100 neuronas
+Probé 3000 generaciones y no llegué muy lejos. 
+Voy a probar otra vez y si no anda voy a tener que empezar a jugar con el algoritmo evolutivo:
+Esta llegó bastante lejos (.98), asique voy a probar otra vez
+Esta vez no llegó tan lejos.
+
+ESTABA SÓLO SUMANDO CON PESOS POSITIVOS HASTA LOS MOTORES.
+LAS INHIBITORIAS QUE ESTABAN CONECTADAS NO SUMABAN CON PESO NEGATIVO.
+Segunda prueba así
+
+20-06-30:
+Estoy probando el cruce arquitectura-peso.
+Parece que anda igual que el otro
