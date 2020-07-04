@@ -1,0 +1,1 @@
+Subí el max expected Offspring de 1.8 a 1.9, y subí crossoverProb de .6 a .65

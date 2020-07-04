@@ -1,0 +1,2 @@
+Probé con selección por torneo.
+Tamaño del torneo= 7
