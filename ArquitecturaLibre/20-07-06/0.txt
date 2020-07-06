@@ -1,0 +1,5 @@
+Probando mutar la arquitectura cambiando por neuronas cercanas.
+
+Parece que no mejora nada
+
+Lo volví a dejar como antes

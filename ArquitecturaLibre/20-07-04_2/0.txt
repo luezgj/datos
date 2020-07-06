@@ -1,0 +1,3 @@
+Tamaño de torneo a 20
+y crossoverProb a .7
+Ahora estoy probando si cruzo arquitectura + peso juntos
