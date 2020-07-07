@@ -1,0 +1,8 @@
+Estoy probando cruce de dos puntos en pesos y uno en arquitectura. Estaba mutando con neuronas cercanas.
+
+Debería probar cruzar en dos puntos arq+pesos
+
+Prodía probar mutando aleatorio.
+
+
+AHORA ESTOY PROBANDO CRUCE DE DOS PUNTOS EN ARQUI Y EN PESOS
