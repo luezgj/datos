@@ -1,0 +1,5 @@
+Estoy probando sin rateCodeGain (con pesos hasta 20 no funcionó, ahora pruebo hasta 50)
+Probé hasta 50 con bias de -100,100
+
+Puse RateCode entre [1,200]
+Voy a probar sin outputBias
