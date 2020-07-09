@@ -1,0 +1,2 @@
+Estoy probando sin rateCodeGain (con pesos hasta 20 no funcionó, ahora pruebo hasta 50)
+Probé hasta 50 con bias de -100,100
