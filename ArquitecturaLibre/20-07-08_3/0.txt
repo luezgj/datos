@@ -1,0 +1,5 @@
+Estoy probando con pesos en 0..20.  
+El fitness da igual.
+
+
+Voy a probar con pesos hasta 50, porque en el paper de izquierdo las neuronas disparan muchas veces, y en mi caso eso no está pasando. En mi caso la velocidad se construye on muy pocos spikes, y tal vez eso sea lo que le impide al agente centrarse en el final.
