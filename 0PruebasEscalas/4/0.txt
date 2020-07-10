@@ -1,0 +1,6 @@
+Estoy probando sin rateCodeGain (con pesos hasta 20 no funcionó, ahora pruebo hasta 50)
+Probé hasta 50 con bias de -100,100
+
+Puse RateCode entre [1,200]
+Voy a probar sin outputBias
+Esta prueba era hasta 20 sin outPutBias. No anduvo tan mal. Probaría el cruce uniforme ahora
