@@ -1,0 +1,5 @@
+Mismo código que la anterior (20-07-24)
+
+Cambié las conexiones de salida. Sólo excitatorias.
+
+Además cuando mutaba no estaba mutando las neuronas de salida
