@@ -1,0 +1,1 @@
+Subí crossoverProb a 0.7
