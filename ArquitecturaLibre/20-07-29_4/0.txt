@@ -1,0 +1,1 @@
+Pruebo con pesos en 0..10. RateCode hasta 500
