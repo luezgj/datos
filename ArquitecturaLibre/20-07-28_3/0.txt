@@ -1,0 +1,1 @@
+Replico lo anterior (crossover en 0.7 para confirmar que se necesitan más mutaciones)
