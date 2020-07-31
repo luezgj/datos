@@ -1,0 +1,1 @@
+Replico lo anterior (parametros geneticos distintos, pesos hasta 20 outputGain hasta 500)
