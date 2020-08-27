@@ -1,0 +1,2 @@
+Replica de: Prueba con pesos hasta 20 después de arreglar lo de la simetría (ahora sumo un real con cada spike, y no piso la primer conexion). 
+No anduvo bien

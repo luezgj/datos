@@ -1,0 +1,5 @@
+Probé sin reemplazo genracional (75% offspring, 25% padres). También muto una copia del elitismo
+
+No parece andar mejor
+
+Cambié la población a 500, pero no anda mejor

@@ -1,0 +1,7 @@
+Probé sin reemplazo genracional (75% offspring, 25% padres). También muto una copia del elitismo
+
+No parece andar mejor
+
+Cambié la población a 500, pero no anda mejor
+
+LA volvi a dejar en 300, bajé los parámetros de mutación, pero no anda mejor.
