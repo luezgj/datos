@@ -1,0 +1,1 @@
+Cambié hasta donde cael el objeto. Antes caía hasta 0, ahora cae hasta Diameter/2 (porque cuando el objeto estaba sobre el.el agente los sensores daban raro)
