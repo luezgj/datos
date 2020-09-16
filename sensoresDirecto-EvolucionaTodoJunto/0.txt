@@ -1,0 +1,3 @@
+Probé evolucionar los agentes con los sensores directamente.
+Sin intercalar arquitectura-pesos
+Esto tiene outputBias hasta +-10
