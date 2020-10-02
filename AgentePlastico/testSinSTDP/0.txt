@@ -1,0 +1,3 @@
+Probé sin STDP para ver si no había roto algo con los cambios.
+Anduvo igual que andaba antes, asique no rompí nada. 
+Entonces no anda bien por lo de STDP
