@@ -1,0 +1,1 @@
+Acá no tenía conectadas las neuronas de salida. Guardo por las dudas por si los spikes me sirven para algo, pero no creo que sirva de nada (Como el robot no se mueve sólo está sensando la caída de los objetos). 
